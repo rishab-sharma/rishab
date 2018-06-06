@@ -1,0 +1,10 @@
+	c = Face_crop("../testing_images/test6.jpg")
+	crop_image = c.Face_crop_haar("/Users/rishab/anaconda2/envs/car-behavioral-cloning/share/OpenCV/haarcascades/haarcascade_frontalface_default.xml")
+	im = Resize(crop_image)
+	img = im.Resize(299 , 299)
+	cv2.imwrite('images/image.jpg',img)
+	a = Augmentor_class('../data/sample_data')
+	b , c = a.__Augmentor__(128)
+
+#########################################################################
+
