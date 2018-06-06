@@ -1,0 +1,1379 @@
+2018-04-19 12:28:08,006:INFO:16124:MainProcess: * Evaluator Initiated *
+2018-04-19 12:28:08,007:INFO:16124:MainProcess: * Publisher Initiated *
+2018-04-19 12:28:08,040:INFO:16128:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 12:28:08,040:INFO:16129:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 12:28:08,042:INFO:16128:Process-1: * Restarting with stat
+2018-04-19 12:28:08,042:INFO:16129:Process-2: * Restarting with stat
+2018-04-19 12:28:11,717:INFO:16131:MainProcess: * Evaluator Initiated *
+2018-04-19 12:28:11,717:INFO:16131:MainProcess: * Publisher Initiated *
+2018-04-19 12:28:11,717:INFO:16130:MainProcess: * Evaluator Initiated *
+2018-04-19 12:28:11,717:INFO:16130:MainProcess: * Publisher Initiated *
+2018-04-19 12:28:11,765:WARNING:16141:Process-2: * Debugger is active!
+2018-04-19 12:28:11,765:WARNING:16139:Process-1: * Debugger is active!
+2018-04-19 12:28:11,765:WARNING:16138:Process-1: * Debugger is active!
+2018-04-19 12:28:11,770:WARNING:16140:Process-2: * Debugger is active!
+2018-04-19 12:28:11,791:INFO:16138:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:28:11,791:INFO:16139:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:28:11,791:INFO:16141:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:28:11,801:INFO:16140:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:28:17,225:DEBUG:16141:Process-2:* Model Saved in disk as JSON
+2018-04-19 12:28:19,749:DEBUG:16141:Process-2:Starting new HTTP connection (1): 0.0.0.0
+2018-04-19 12:28:19,752:INFO:16138:Process-1:Epoch => 0
+2018-04-19 12:28:19,752:INFO:16138:Process-1:Accuracy => 0.119999997318
+2018-04-19 12:28:19,753:INFO:16138:Process-1:Loss => 2.29540245533
+2018-04-19 12:28:19,753:INFO:16138:Process-1:Val_Accuracy => 0.330000013113
+2018-04-19 12:28:19,753:INFO:16138:Process-1:Val_loss => 2.27394032478
+2018-04-19 12:28:19,754:INFO:16138:Process-1:127.0.0.1 - - [19/Apr/2018 12:28:19] "POST /publish HTTP/1.1" 200 -
+2018-04-19 12:28:19,754:DEBUG:16141:Process-2:http://0.0.0.0:5001 "POST /publish HTTP/1.1" 200 13
+2018-04-19 12:28:20,273:DEBUG:16141:Process-2:Starting new HTTP connection (1): 0.0.0.0
+2018-04-19 12:28:20,277:INFO:16140:Process-2:Epoch => 1
+2018-04-19 12:28:20,277:INFO:16140:Process-2:Accuracy => 0.377999994159
+2018-04-19 12:28:20,278:INFO:16140:Process-2:Loss => 2.22617108822
+2018-04-19 12:28:20,278:INFO:16140:Process-2:Val_Accuracy => 0.370000004768
+2018-04-19 12:28:20,278:INFO:16140:Process-2:Val_loss => 2.20354747772
+2018-04-19 12:28:20,279:INFO:16140:Process-2:127.0.0.1 - - [19/Apr/2018 12:28:20] "POST /publish HTTP/1.1" 200 -
+2018-04-19 12:28:20,280:DEBUG:16141:Process-2:http://0.0.0.0:5001 "POST /publish HTTP/1.1" 200 13
+2018-04-19 12:28:20,839:DEBUG:16141:Process-2:Starting new HTTP connection (1): 0.0.0.0
+2018-04-19 12:28:20,841:INFO:16138:Process-1:Epoch => 2
+2018-04-19 12:28:20,841:INFO:16138:Process-1:Accuracy => 0.39999999404
+2018-04-19 12:28:20,842:INFO:16138:Process-1:Loss => 2.1222796917
+2018-04-19 12:28:20,842:INFO:16138:Process-1:Val_Accuracy => 0.310000002384
+2018-04-19 12:28:20,842:INFO:16138:Process-1:Val_loss => 2.11019515991
+2018-04-19 12:28:20,843:INFO:16138:Process-1:127.0.0.1 - - [19/Apr/2018 12:28:20] "POST /publish HTTP/1.1" 200 -
+2018-04-19 12:28:20,843:DEBUG:16141:Process-2:http://0.0.0.0:5001 "POST /publish HTTP/1.1" 200 13
+2018-04-19 12:28:20,851:INFO:16141:Process-2:127.0.0.1 - - [19/Apr/2018 12:28:20] "GET /testing HTTP/1.1" 200 -
+2018-04-19 12:29:44,666:INFO:16138:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/app.py', reloading
+2018-04-19 12:29:44,668:INFO:16139:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/app.py', reloading
+2018-04-19 12:29:44,668:INFO:16140:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/app.py', reloading
+2018-04-19 12:29:44,669:INFO:16141:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/app.py', reloading
+2018-04-19 12:38:15,667:INFO:16215:MainProcess: * Evaluator Initiated *
+2018-04-19 12:38:15,668:INFO:16215:MainProcess: * Publisher Initiated *
+2018-04-19 12:38:15,700:INFO:16220:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 12:38:15,700:INFO:16219:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 12:38:15,702:INFO:16219:Process-1: * Restarting with stat
+2018-04-19 12:38:15,702:INFO:16220:Process-2: * Restarting with stat
+2018-04-19 12:38:19,294:INFO:16221:MainProcess: * Evaluator Initiated *
+2018-04-19 12:38:19,294:INFO:16221:MainProcess: * Publisher Initiated *
+2018-04-19 12:38:19,294:INFO:16222:MainProcess: * Evaluator Initiated *
+2018-04-19 12:38:19,295:INFO:16222:MainProcess: * Publisher Initiated *
+2018-04-19 12:38:19,341:WARNING:16231:Process-2: * Debugger is active!
+2018-04-19 12:38:19,341:WARNING:16229:Process-1: * Debugger is active!
+2018-04-19 12:38:19,341:WARNING:16232:Process-2: * Debugger is active!
+2018-04-19 12:38:19,342:WARNING:16230:Process-1: * Debugger is active!
+2018-04-19 12:38:19,368:INFO:16231:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:38:19,369:INFO:16232:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:38:19,369:INFO:16230:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:38:19,369:INFO:16229:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:38:20,973:INFO:16229:Process-1:127.0.0.1 - - [19/Apr/2018 12:38:20] "POST /doit HTTP/1.1" 200 -
+2018-04-19 12:42:20,083:INFO:16231:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:42:20,084:INFO:16230:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:42:20,085:INFO:16229:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:42:20,085:INFO:16232:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:42:30,114:INFO:16250:MainProcess: * Evaluator Initiated *
+2018-04-19 12:42:30,115:INFO:16250:MainProcess: * Publisher Initiated *
+2018-04-19 12:42:30,148:INFO:16254:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 12:42:30,149:INFO:16255:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 12:42:30,151:INFO:16255:Process-2: * Restarting with stat
+2018-04-19 12:42:30,151:INFO:16254:Process-1: * Restarting with stat
+2018-04-19 12:42:34,029:INFO:16257:MainProcess: * Evaluator Initiated *
+2018-04-19 12:42:34,029:INFO:16256:MainProcess: * Evaluator Initiated *
+2018-04-19 12:42:34,029:INFO:16257:MainProcess: * Publisher Initiated *
+2018-04-19 12:42:34,029:INFO:16256:MainProcess: * Publisher Initiated *
+2018-04-19 12:42:34,078:WARNING:16267:Process-2: * Debugger is active!
+2018-04-19 12:42:34,079:WARNING:16264:Process-1: * Debugger is active!
+2018-04-19 12:42:34,081:WARNING:16265:Process-1: * Debugger is active!
+2018-04-19 12:42:34,081:WARNING:16266:Process-2: * Debugger is active!
+2018-04-19 12:42:34,104:INFO:16267:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:42:34,106:INFO:16265:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:42:34,106:INFO:16266:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 12:42:34,106:INFO:16264:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 12:42:34,116:INFO:16267:Process-2:127.0.0.1 - - [19/Apr/2018 12:42:34] "POST /doit HTTP/1.1" 200 -
+2018-04-19 12:43:06,994:INFO:16265:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:43:06,994:INFO:16266:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:43:06,998:INFO:16267:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 12:43:06,999:INFO:16264:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 14:48:31,127:INFO:16501:MainProcess: * Evaluator Initiated *
+2018-04-19 14:48:31,128:INFO:16501:MainProcess: * Publisher Initiated *
+2018-04-19 14:48:31,187:INFO:16506:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:48:31,187:INFO:16505:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:48:31,190:INFO:16506:Process-2: * Restarting with stat
+2018-04-19 14:48:31,190:INFO:16505:Process-1: * Restarting with stat
+2018-04-19 14:48:35,151:INFO:16507:MainProcess: * Evaluator Initiated *
+2018-04-19 14:48:35,151:INFO:16508:MainProcess: * Evaluator Initiated *
+2018-04-19 14:48:35,152:INFO:16507:MainProcess: * Publisher Initiated *
+2018-04-19 14:48:35,152:INFO:16508:MainProcess: * Publisher Initiated *
+2018-04-19 14:48:35,197:WARNING:16516:Process-1: * Debugger is active!
+2018-04-19 14:48:35,198:WARNING:16518:Process-2: * Debugger is active!
+2018-04-19 14:48:35,200:WARNING:16515:Process-1: * Debugger is active!
+2018-04-19 14:48:35,212:WARNING:16517:Process-2: * Debugger is active!
+2018-04-19 14:48:35,237:INFO:16515:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:48:35,238:INFO:16516:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:48:35,238:INFO:16518:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:48:35,241:INFO:16517:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:48:43,531:INFO:16517:Process-2:127.0.0.1 - - [19/Apr/2018 14:48:43] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:49:10,467:INFO:16516:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:10,470:INFO:16515:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:10,470:INFO:16518:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:10,473:INFO:16517:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:38,446:INFO:16538:MainProcess: * Evaluator Initiated *
+2018-04-19 14:49:38,446:INFO:16538:MainProcess: * Publisher Initiated *
+2018-04-19 14:49:38,480:INFO:16542:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:49:38,481:INFO:16543:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:49:38,482:INFO:16542:Process-1: * Restarting with stat
+2018-04-19 14:49:38,483:INFO:16543:Process-2: * Restarting with stat
+2018-04-19 14:49:41,955:INFO:16544:MainProcess: * Evaluator Initiated *
+2018-04-19 14:49:41,955:INFO:16544:MainProcess: * Publisher Initiated *
+2018-04-19 14:49:41,957:INFO:16545:MainProcess: * Evaluator Initiated *
+2018-04-19 14:49:41,957:INFO:16545:MainProcess: * Publisher Initiated *
+2018-04-19 14:49:41,995:WARNING:16552:Process-1: * Debugger is active!
+2018-04-19 14:49:42,000:WARNING:16555:Process-2: * Debugger is active!
+2018-04-19 14:49:42,001:WARNING:16553:Process-1: * Debugger is active!
+2018-04-19 14:49:42,003:WARNING:16554:Process-2: * Debugger is active!
+2018-04-19 14:49:42,029:INFO:16555:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:49:42,029:INFO:16554:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:49:42,029:INFO:16553:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:49:42,030:INFO:16552:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:49:48,670:INFO:16554:Process-2:127.0.0.1 - - [19/Apr/2018 14:49:48] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:49:59,594:INFO:16552:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:59,594:INFO:16554:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:59,594:INFO:16553:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:49:59,594:INFO:16555:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:50:05,644:INFO:16574:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:05,644:INFO:16574:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:05,678:INFO:16579:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:50:05,678:INFO:16578:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:50:05,682:INFO:16578:Process-1: * Restarting with stat
+2018-04-19 14:50:05,682:INFO:16579:Process-2: * Restarting with stat
+2018-04-19 14:50:09,428:INFO:16580:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:09,428:INFO:16580:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:09,436:INFO:16581:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:09,436:INFO:16581:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:09,477:WARNING:16588:Process-1: * Debugger is active!
+2018-04-19 14:50:09,479:WARNING:16589:Process-2: * Debugger is active!
+2018-04-19 14:50:09,481:WARNING:16590:Process-1: * Debugger is active!
+2018-04-19 14:50:09,486:WARNING:16591:Process-2: * Debugger is active!
+2018-04-19 14:50:09,503:INFO:16589:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:50:09,504:INFO:16590:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:50:09,505:INFO:16588:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:50:09,514:INFO:16591:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:50:09,565:INFO:16590:Process-1:127.0.0.1 - - [19/Apr/2018 14:50:09] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:50:22,786:INFO:16589:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:50:22,787:INFO:16591:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:50:22,787:INFO:16588:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:50:22,788:INFO:16590:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:50:27,851:INFO:16611:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:27,852:INFO:16611:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:27,886:INFO:16615:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:50:27,887:INFO:16616:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:50:27,888:INFO:16615:Process-1: * Restarting with stat
+2018-04-19 14:50:27,889:INFO:16616:Process-2: * Restarting with stat
+2018-04-19 14:50:31,502:INFO:16617:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:31,502:INFO:16617:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:31,539:WARNING:16625:Process-1: * Debugger is active!
+2018-04-19 14:50:31,540:WARNING:16626:Process-2: * Debugger is active!
+2018-04-19 14:50:31,558:INFO:16618:MainProcess: * Evaluator Initiated *
+2018-04-19 14:50:31,558:INFO:16618:MainProcess: * Publisher Initiated *
+2018-04-19 14:50:31,564:INFO:16626:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:50:31,564:INFO:16625:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:50:31,608:WARNING:16633:Process-1: * Debugger is active!
+2018-04-19 14:50:31,614:WARNING:16634:Process-2: * Debugger is active!
+2018-04-19 14:50:31,643:INFO:16633:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:50:31,648:INFO:16634:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:50:31,658:INFO:16625:Process-1:127.0.0.1 - - [19/Apr/2018 14:50:31] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:51:01,333:INFO:16626:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:02,017:INFO:16634:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:02,021:INFO:16625:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:02,022:INFO:16633:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:07,380:INFO:16647:MainProcess: * Evaluator Initiated *
+2018-04-19 14:51:07,380:INFO:16647:MainProcess: * Publisher Initiated *
+2018-04-19 14:51:07,416:INFO:16651:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:51:07,416:INFO:16652:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:51:07,418:INFO:16651:Process-1: * Restarting with stat
+2018-04-19 14:51:07,419:INFO:16652:Process-2: * Restarting with stat
+2018-04-19 14:51:11,234:INFO:16653:MainProcess: * Evaluator Initiated *
+2018-04-19 14:51:11,234:INFO:16653:MainProcess: * Publisher Initiated *
+2018-04-19 14:51:11,241:INFO:16654:MainProcess: * Evaluator Initiated *
+2018-04-19 14:51:11,242:INFO:16654:MainProcess: * Publisher Initiated *
+2018-04-19 14:51:11,278:WARNING:16661:Process-1: * Debugger is active!
+2018-04-19 14:51:11,278:WARNING:16662:Process-2: * Debugger is active!
+2018-04-19 14:51:11,291:WARNING:16664:Process-2: * Debugger is active!
+2018-04-19 14:51:11,297:WARNING:16663:Process-1: * Debugger is active!
+2018-04-19 14:51:11,305:INFO:16662:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:51:11,306:INFO:16661:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:51:11,318:INFO:16664:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:51:11,322:INFO:16663:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:51:11,426:INFO:16661:Process-1:127.0.0.1 - - [19/Apr/2018 14:51:11] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:51:46,303:INFO:16662:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:46,965:INFO:16663:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:46,966:INFO:16661:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:46,969:INFO:16664:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:51:56,922:INFO:16686:MainProcess: * Evaluator Initiated *
+2018-04-19 14:51:56,922:INFO:16686:MainProcess: * Publisher Initiated *
+2018-04-19 14:51:56,957:INFO:16690:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:51:56,957:INFO:16691:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:51:56,960:INFO:16691:Process-2: * Restarting with stat
+2018-04-19 14:51:56,960:INFO:16690:Process-1: * Restarting with stat
+2018-04-19 14:52:00,667:INFO:16692:MainProcess: * Evaluator Initiated *
+2018-04-19 14:52:00,667:INFO:16692:MainProcess: * Publisher Initiated *
+2018-04-19 14:52:00,674:INFO:16693:MainProcess: * Evaluator Initiated *
+2018-04-19 14:52:00,674:INFO:16693:MainProcess: * Publisher Initiated *
+2018-04-19 14:52:00,711:WARNING:16701:Process-2: * Debugger is active!
+2018-04-19 14:52:00,714:WARNING:16700:Process-1: * Debugger is active!
+2018-04-19 14:52:00,719:WARNING:16703:Process-2: * Debugger is active!
+2018-04-19 14:52:00,725:WARNING:16702:Process-1: * Debugger is active!
+2018-04-19 14:52:00,741:INFO:16700:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:52:00,743:INFO:16701:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:52:00,750:INFO:16703:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:52:00,752:INFO:16702:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:52:00,911:INFO:16702:Process-1:127.0.0.1 - - [19/Apr/2018 14:52:00] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:52:26,030:INFO:16701:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:52:26,031:INFO:16702:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:52:26,033:INFO:16703:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:52:26,033:INFO:16700:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:53:44,144:INFO:16725:MainProcess: * Evaluator Initiated *
+2018-04-19 14:53:44,144:INFO:16725:MainProcess: * Publisher Initiated *
+2018-04-19 14:53:44,181:INFO:16729:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:53:44,181:INFO:16730:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:53:44,182:INFO:16729:Process-1: * Restarting with stat
+2018-04-19 14:53:44,183:INFO:16730:Process-2: * Restarting with stat
+2018-04-19 14:53:48,264:INFO:16732:MainProcess: * Evaluator Initiated *
+2018-04-19 14:53:48,264:INFO:16732:MainProcess: * Publisher Initiated *
+2018-04-19 14:53:48,301:INFO:16731:MainProcess: * Evaluator Initiated *
+2018-04-19 14:53:48,302:INFO:16731:MainProcess: * Publisher Initiated *
+2018-04-19 14:53:48,310:WARNING:16739:Process-1: * Debugger is active!
+2018-04-19 14:53:48,316:WARNING:16740:Process-2: * Debugger is active!
+2018-04-19 14:53:48,351:INFO:16739:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:53:48,356:WARNING:16741:Process-1: * Debugger is active!
+2018-04-19 14:53:48,360:WARNING:16742:Process-2: * Debugger is active!
+2018-04-19 14:53:48,360:INFO:16740:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:53:48,383:INFO:16741:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:53:48,386:INFO:16742:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:53:50,184:INFO:16742:Process-2:127.0.0.1 - - [19/Apr/2018 14:53:50] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:54:29,493:INFO:16742:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:54:29,495:INFO:16741:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:54:29,498:INFO:16740:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:54:29,765:INFO:16739:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:54:38,845:INFO:16763:MainProcess: * Evaluator Initiated *
+2018-04-19 14:54:38,846:INFO:16763:MainProcess: * Publisher Initiated *
+2018-04-19 14:54:38,882:INFO:16768:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:54:38,882:INFO:16767:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:54:38,884:INFO:16768:Process-2: * Restarting with stat
+2018-04-19 14:54:38,884:INFO:16767:Process-1: * Restarting with stat
+2018-04-19 14:54:42,613:INFO:16770:MainProcess: * Evaluator Initiated *
+2018-04-19 14:54:42,613:INFO:16770:MainProcess: * Publisher Initiated *
+2018-04-19 14:54:42,659:WARNING:16777:Process-1: * Debugger is active!
+2018-04-19 14:54:42,660:WARNING:16778:Process-2: * Debugger is active!
+2018-04-19 14:54:42,669:INFO:16769:MainProcess: * Evaluator Initiated *
+2018-04-19 14:54:42,669:INFO:16769:MainProcess: * Publisher Initiated *
+2018-04-19 14:54:42,686:INFO:16778:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:54:42,686:INFO:16777:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:54:42,725:WARNING:16783:Process-1: * Debugger is active!
+2018-04-19 14:54:42,734:WARNING:16785:Process-2: * Debugger is active!
+2018-04-19 14:54:42,754:INFO:16783:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:54:42,763:INFO:16785:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:54:44,651:INFO:16777:Process-1:127.0.0.1 - - [19/Apr/2018 14:54:44] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:55:46,033:INFO:16783:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:55:46,033:INFO:16777:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:55:46,034:INFO:16785:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:55:46,036:INFO:16778:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:56:06,174:INFO:16799:MainProcess: * Evaluator Initiated *
+2018-04-19 14:56:06,174:INFO:16799:MainProcess: * Publisher Initiated *
+2018-04-19 14:56:06,210:INFO:16804:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:56:06,211:INFO:16803:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:56:06,212:INFO:16804:Process-2: * Restarting with stat
+2018-04-19 14:56:06,212:INFO:16803:Process-1: * Restarting with stat
+2018-04-19 14:56:10,261:INFO:16805:MainProcess: * Evaluator Initiated *
+2018-04-19 14:56:10,261:INFO:16805:MainProcess: * Publisher Initiated *
+2018-04-19 14:56:10,290:INFO:16806:MainProcess: * Evaluator Initiated *
+2018-04-19 14:56:10,290:INFO:16806:MainProcess: * Publisher Initiated *
+2018-04-19 14:56:10,298:WARNING:16813:Process-1: * Debugger is active!
+2018-04-19 14:56:10,306:WARNING:16814:Process-2: * Debugger is active!
+2018-04-19 14:56:10,329:INFO:16813:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:56:10,331:INFO:16814:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:56:10,338:WARNING:16815:Process-1: * Debugger is active!
+2018-04-19 14:56:10,345:WARNING:16816:Process-2: * Debugger is active!
+2018-04-19 14:56:10,364:INFO:16815:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:56:10,368:INFO:16816:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:56:10,426:INFO:16815:Process-1:127.0.0.1 - - [19/Apr/2018 14:56:10] "POST /doit HTTP/1.1" 500 -
+2018-04-19 14:57:20,247:INFO:16816:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:57:20,256:INFO:16815:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:57:20,257:INFO:16814:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:57:20,903:INFO:16813:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 14:57:29,927:INFO:16838:MainProcess: * Evaluator Initiated *
+2018-04-19 14:57:29,927:INFO:16838:MainProcess: * Publisher Initiated *
+2018-04-19 14:57:29,961:INFO:16842:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 14:57:29,961:INFO:16843:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 14:57:29,964:INFO:16843:Process-2: * Restarting with stat
+2018-04-19 14:57:29,964:INFO:16842:Process-1: * Restarting with stat
+2018-04-19 14:57:33,723:INFO:16845:MainProcess: * Evaluator Initiated *
+2018-04-19 14:57:33,724:INFO:16845:MainProcess: * Publisher Initiated *
+2018-04-19 14:57:33,724:INFO:16844:MainProcess: * Evaluator Initiated *
+2018-04-19 14:57:33,725:INFO:16844:MainProcess: * Publisher Initiated *
+2018-04-19 14:57:33,772:WARNING:16855:Process-2: * Debugger is active!
+2018-04-19 14:57:33,772:WARNING:16853:Process-1: * Debugger is active!
+2018-04-19 14:57:33,773:WARNING:16852:Process-1: * Debugger is active!
+2018-04-19 14:57:33,775:WARNING:16854:Process-2: * Debugger is active!
+2018-04-19 14:57:33,800:INFO:16853:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:57:33,802:INFO:16852:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 14:57:33,802:INFO:16855:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:57:33,802:INFO:16854:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 14:57:33,888:INFO:16854:Process-2:127.0.0.1 - - [19/Apr/2018 14:57:33] "POST /doit HTTP/1.1" 500 -
+2018-04-19 15:01:04,393:INFO:16854:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:01:04,393:INFO:16852:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:01:04,394:INFO:16853:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:02:09,146:INFO:16885:MainProcess: * Evaluator Initiated *
+2018-04-19 15:02:09,147:INFO:16885:MainProcess: * Publisher Initiated *
+2018-04-19 15:02:09,186:INFO:16889:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 15:02:09,187:INFO:16890:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 15:02:09,189:INFO:16889:Process-1: * Restarting with stat
+2018-04-19 15:02:09,189:INFO:16890:Process-2: * Restarting with stat
+2018-04-19 15:02:13,212:INFO:16892:MainProcess: * Evaluator Initiated *
+2018-04-19 15:02:13,213:INFO:16892:MainProcess: * Publisher Initiated *
+2018-04-19 15:02:13,218:INFO:16891:MainProcess: * Evaluator Initiated *
+2018-04-19 15:02:13,218:INFO:16891:MainProcess: * Publisher Initiated *
+2018-04-19 15:02:13,255:WARNING:16899:Process-1: * Debugger is active!
+2018-04-19 15:02:13,264:WARNING:16900:Process-2: * Debugger is active!
+2018-04-19 15:02:13,267:WARNING:16901:Process-1: * Debugger is active!
+2018-04-19 15:02:13,273:WARNING:16902:Process-2: * Debugger is active!
+2018-04-19 15:02:13,286:INFO:16899:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:02:13,290:INFO:16900:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:02:13,296:INFO:16901:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:02:13,303:INFO:16902:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:02:13,367:INFO:16901:Process-1:127.0.0.1 - - [19/Apr/2018 15:02:13] "POST /doit HTTP/1.1" 500 -
+2018-04-19 15:02:18,489:INFO:16901:Process-1:127.0.0.1 - - [19/Apr/2018 15:02:18] "POST /doit HTTP/1.1" 500 -
+2018-04-19 15:02:50,781:INFO:16901:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 15:02:50,781:INFO:16900:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 15:02:50,782:INFO:16899:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 15:02:50,782:INFO:16902:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 15:03:01,984:INFO:16927:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:01,984:INFO:16927:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:02,019:INFO:16931:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 15:03:02,019:INFO:16932:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 15:03:02,021:INFO:16932:Process-2: * Restarting with stat
+2018-04-19 15:03:02,021:INFO:16931:Process-1: * Restarting with stat
+2018-04-19 15:03:05,966:INFO:16934:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:05,967:INFO:16934:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:06,012:WARNING:16941:Process-1: * Debugger is active!
+2018-04-19 15:03:06,015:WARNING:16942:Process-2: * Debugger is active!
+2018-04-19 15:03:06,028:INFO:16933:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:06,029:INFO:16933:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:06,036:INFO:16941:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:03:06,036:INFO:16942:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:03:06,075:WARNING:16949:Process-1: * Debugger is active!
+2018-04-19 15:03:06,083:WARNING:16950:Process-2: * Debugger is active!
+2018-04-19 15:03:06,106:INFO:16941:Process-1:127.0.0.1 - - [19/Apr/2018 15:03:06] "POST /doit HTTP/1.1" 200 -
+2018-04-19 15:03:06,111:INFO:16949:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:03:06,152:INFO:16950:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:03:27,038:INFO:16964:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:27,039:INFO:16964:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:27,071:INFO:16968:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 15:03:27,071:INFO:16969:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 15:03:27,072:INFO:16969:Process-2: * Restarting with stat
+2018-04-19 15:03:27,072:INFO:16968:Process-1: * Restarting with stat
+2018-04-19 15:03:30,799:INFO:16971:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:30,799:INFO:16971:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:30,821:INFO:16970:MainProcess: * Evaluator Initiated *
+2018-04-19 15:03:30,821:INFO:16970:MainProcess: * Publisher Initiated *
+2018-04-19 15:03:30,840:WARNING:16979:Process-2: * Debugger is active!
+2018-04-19 15:03:30,842:WARNING:16978:Process-1: * Debugger is active!
+2018-04-19 15:03:30,865:WARNING:16980:Process-1: * Debugger is active!
+2018-04-19 15:03:30,870:INFO:16978:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:03:30,870:INFO:16979:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:03:30,877:WARNING:16981:Process-2: * Debugger is active!
+2018-04-19 15:03:30,893:INFO:16980:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:03:30,902:INFO:16981:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:04:03,081:INFO:16979:Process-2:127.0.0.1 - - [19/Apr/2018 15:04:03] "POST /doit HTTP/1.1" 200 -
+2018-04-19 15:04:28,992:INFO:16981:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:04:28,997:INFO:16980:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:04:29,008:INFO:16979:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:04:29,011:INFO:16978:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:04:32,167:INFO:16998:PoolWorker-2:4:127.0.0.1 - - [19/Apr/2018 15:04:32] "POST /doit HTTP/1.1" 500 -
+2018-04-19 15:04:49,087:INFO:17003:MainProcess: * Evaluator Initiated *
+2018-04-19 15:04:49,087:INFO:17003:MainProcess: * Publisher Initiated *
+2018-04-19 15:04:49,120:INFO:17007:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 15:04:49,120:INFO:17008:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 15:04:49,123:INFO:17007:Process-1: * Restarting with stat
+2018-04-19 15:04:49,123:INFO:17008:Process-2: * Restarting with stat
+2018-04-19 15:04:52,558:INFO:17009:MainProcess: * Evaluator Initiated *
+2018-04-19 15:04:52,558:INFO:17009:MainProcess: * Publisher Initiated *
+2018-04-19 15:04:52,573:INFO:17010:MainProcess: * Evaluator Initiated *
+2018-04-19 15:04:52,573:INFO:17010:MainProcess: * Publisher Initiated *
+2018-04-19 15:04:52,597:WARNING:17018:Process-2: * Debugger is active!
+2018-04-19 15:04:52,598:WARNING:17017:Process-1: * Debugger is active!
+2018-04-19 15:04:52,616:WARNING:17019:Process-1: * Debugger is active!
+2018-04-19 15:04:52,616:WARNING:17020:Process-2: * Debugger is active!
+2018-04-19 15:04:52,621:INFO:17018:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:04:52,622:INFO:17017:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:04:52,641:INFO:17019:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:04:52,641:INFO:17020:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:04:57,760:INFO:17017:Process-1:127.0.0.1 - - [19/Apr/2018 15:04:57] "POST /doit HTTP/1.1" 200 -
+2018-04-19 15:05:14,586:INFO:17020:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:05:14,587:INFO:17017:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:05:14,588:INFO:17018:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:05:14,589:INFO:17019:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 15:05:25,447:INFO:17040:MainProcess: * Evaluator Initiated *
+2018-04-19 15:05:25,447:INFO:17040:MainProcess: * Publisher Initiated *
+2018-04-19 15:05:25,480:INFO:17044:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 15:05:25,480:INFO:17045:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 15:05:25,482:INFO:17044:Process-1: * Restarting with stat
+2018-04-19 15:05:25,482:INFO:17045:Process-2: * Restarting with stat
+2018-04-19 15:05:29,125:INFO:17046:MainProcess: * Evaluator Initiated *
+2018-04-19 15:05:29,125:INFO:17046:MainProcess: * Publisher Initiated *
+2018-04-19 15:05:29,146:INFO:17047:MainProcess: * Evaluator Initiated *
+2018-04-19 15:05:29,146:INFO:17047:MainProcess: * Publisher Initiated *
+2018-04-19 15:05:29,163:WARNING:17054:Process-1: * Debugger is active!
+2018-04-19 15:05:29,165:WARNING:17055:Process-2: * Debugger is active!
+2018-04-19 15:05:29,188:WARNING:17056:Process-1: * Debugger is active!
+2018-04-19 15:05:29,189:INFO:17054:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:05:29,191:WARNING:17057:Process-2: * Debugger is active!
+2018-04-19 15:05:29,192:INFO:17055:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:05:29,216:INFO:17056:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 15:05:29,220:INFO:17057:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 15:05:29,247:INFO:17054:Process-1:127.0.0.1 - - [19/Apr/2018 15:05:29] "POST /doit HTTP/1.1" 200 -
+2018-04-19 16:45:55,192:INFO:17586:MainProcess: * Evaluator Initiated *
+2018-04-19 16:45:55,193:INFO:17586:MainProcess: * Publisher Initiated *
+2018-04-19 16:45:55,257:INFO:17590:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 16:45:55,257:INFO:17591:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 16:45:55,260:INFO:17590:Process-1: * Restarting with stat
+2018-04-19 16:45:55,260:INFO:17591:Process-2: * Restarting with stat
+2018-04-19 16:46:01,207:INFO:17593:MainProcess: * Evaluator Initiated *
+2018-04-19 16:46:01,207:INFO:17592:MainProcess: * Evaluator Initiated *
+2018-04-19 16:46:01,208:INFO:17593:MainProcess: * Publisher Initiated *
+2018-04-19 16:46:01,208:INFO:17592:MainProcess: * Publisher Initiated *
+2018-04-19 16:46:01,279:WARNING:17602:Process-1: * Debugger is active!
+2018-04-19 16:46:01,279:WARNING:17604:Process-2: * Debugger is active!
+2018-04-19 16:46:01,280:WARNING:17601:Process-1: * Debugger is active!
+2018-04-19 16:46:01,281:WARNING:17603:Process-2: * Debugger is active!
+2018-04-19 16:46:01,335:INFO:17604:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:46:01,335:INFO:17603:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:46:01,335:INFO:17601:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:46:01,336:INFO:17602:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:46:05,654:INFO:17603:Process-2:127.0.0.1 - - [19/Apr/2018 16:46:05] "POST /doit HTTP/1.1" 500 -
+2018-04-19 16:46:22,167:INFO:17604:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 16:46:22,167:INFO:17603:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 16:46:22,168:INFO:17602:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 16:46:22,169:INFO:17601:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 16:46:31,514:INFO:17624:MainProcess: * Evaluator Initiated *
+2018-04-19 16:46:31,514:INFO:17624:MainProcess: * Publisher Initiated *
+2018-04-19 16:46:31,548:INFO:17628:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 16:46:31,548:INFO:17629:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 16:46:31,550:INFO:17628:Process-1: * Restarting with stat
+2018-04-19 16:46:31,551:INFO:17629:Process-2: * Restarting with stat
+2018-04-19 16:46:35,344:INFO:17631:MainProcess: * Evaluator Initiated *
+2018-04-19 16:46:35,344:INFO:17631:MainProcess: * Publisher Initiated *
+2018-04-19 16:46:35,344:INFO:17630:MainProcess: * Evaluator Initiated *
+2018-04-19 16:46:35,344:INFO:17630:MainProcess: * Publisher Initiated *
+2018-04-19 16:46:35,401:WARNING:17638:Process-1: * Debugger is active!
+2018-04-19 16:46:35,402:WARNING:17640:Process-2: * Debugger is active!
+2018-04-19 16:46:35,406:WARNING:17639:Process-1: * Debugger is active!
+2018-04-19 16:46:35,412:WARNING:17641:Process-2: * Debugger is active!
+2018-04-19 16:46:35,467:INFO:17639:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:46:35,467:INFO:17638:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:46:35,467:INFO:17641:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:46:35,468:INFO:17640:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:46:51,468:INFO:17639:Process-1:127.0.0.1 - - [19/Apr/2018 16:46:51] "POST /doit HTTP/1.1" 500 -
+2018-04-19 16:49:44,275:INFO:17640:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:49:44,275:INFO:17638:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:49:44,275:INFO:17641:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:49:44,275:INFO:17639:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:59:13,620:INFO:17764:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:13,621:INFO:17764:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:13,674:INFO:17769:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 16:59:13,674:INFO:17768:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 16:59:13,677:INFO:17768:Process-1: * Restarting with stat
+2018-04-19 16:59:13,677:INFO:17769:Process-2: * Restarting with stat
+2018-04-19 16:59:17,774:INFO:17770:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:17,775:INFO:17770:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:17,776:INFO:17771:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:17,776:INFO:17771:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:17,815:WARNING:17778:Process-1: * Debugger is active!
+2018-04-19 16:59:17,821:WARNING:17780:Process-2: * Debugger is active!
+2018-04-19 16:59:17,821:WARNING:17779:Process-1: * Debugger is active!
+2018-04-19 16:59:17,827:WARNING:17781:Process-2: * Debugger is active!
+2018-04-19 16:59:17,850:INFO:17779:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:59:17,850:INFO:17778:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:59:17,850:INFO:17780:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:59:17,857:INFO:17781:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:59:20,335:INFO:17780:Process-2:127.0.0.1 - - [19/Apr/2018 16:59:20] "POST /doit HTTP/1.1" 200 -
+2018-04-19 16:59:39,935:INFO:17781:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:59:39,936:INFO:17780:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:59:39,936:INFO:17779:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:59:39,936:INFO:17778:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 16:59:46,553:INFO:17800:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:46,553:INFO:17800:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:46,587:INFO:17804:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 16:59:46,587:INFO:17805:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 16:59:46,590:INFO:17805:Process-2: * Restarting with stat
+2018-04-19 16:59:46,590:INFO:17804:Process-1: * Restarting with stat
+2018-04-19 16:59:50,190:INFO:17806:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:50,191:INFO:17806:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:50,191:INFO:17807:MainProcess: * Evaluator Initiated *
+2018-04-19 16:59:50,191:INFO:17807:MainProcess: * Publisher Initiated *
+2018-04-19 16:59:50,238:WARNING:17814:Process-1: * Debugger is active!
+2018-04-19 16:59:50,238:WARNING:17815:Process-1: * Debugger is active!
+2018-04-19 16:59:50,242:WARNING:17817:Process-2: * Debugger is active!
+2018-04-19 16:59:50,245:WARNING:17816:Process-2: * Debugger is active!
+2018-04-19 16:59:50,263:INFO:17814:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:59:50,265:INFO:17815:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 16:59:50,272:INFO:17817:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 16:59:50,272:INFO:17816:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:00:06,452:INFO:17817:Process-2:127.0.0.1 - - [19/Apr/2018 17:00:06] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:01:02,050:INFO:17817:Process-2:127.0.0.1 - - [19/Apr/2018 17:01:02] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:03:40,442:INFO:17817:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:03:40,441:INFO:17816:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:03:40,442:INFO:17815:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:03:40,449:INFO:17814:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:03:54,455:INFO:17848:MainProcess: * Evaluator Initiated *
+2018-04-19 17:03:54,455:INFO:17848:MainProcess: * Publisher Initiated *
+2018-04-19 17:03:54,511:INFO:17853:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:03:54,511:INFO:17852:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:03:54,515:INFO:17853:Process-2: * Restarting with stat
+2018-04-19 17:03:54,515:INFO:17852:Process-1: * Restarting with stat
+2018-04-19 17:03:58,122:INFO:17854:MainProcess: * Evaluator Initiated *
+2018-04-19 17:03:58,123:INFO:17854:MainProcess: * Publisher Initiated *
+2018-04-19 17:03:58,123:INFO:17855:MainProcess: * Evaluator Initiated *
+2018-04-19 17:03:58,123:INFO:17855:MainProcess: * Publisher Initiated *
+2018-04-19 17:03:58,168:WARNING:17865:Process-2: * Debugger is active!
+2018-04-19 17:03:58,169:WARNING:17862:Process-1: * Debugger is active!
+2018-04-19 17:03:58,171:WARNING:17864:Process-2: * Debugger is active!
+2018-04-19 17:03:58,172:WARNING:17863:Process-1: * Debugger is active!
+2018-04-19 17:03:58,199:INFO:17863:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:03:58,199:INFO:17865:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:03:58,199:INFO:17862:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:03:58,200:INFO:17864:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:04:17,893:INFO:17862:Process-1:127.0.0.1 - - [19/Apr/2018 17:04:17] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:06:11,516:INFO:17864:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:06:11,518:INFO:17863:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:06:11,521:INFO:17865:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:06:11,524:INFO:17862:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:06:25,429:INFO:17885:MainProcess: * Evaluator Initiated *
+2018-04-19 17:06:25,429:INFO:17885:MainProcess: * Publisher Initiated *
+2018-04-19 17:06:25,486:INFO:17890:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:06:25,486:INFO:17889:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:06:25,489:INFO:17890:Process-2: * Restarting with stat
+2018-04-19 17:06:25,489:INFO:17889:Process-1: * Restarting with stat
+2018-04-19 17:06:29,286:INFO:17891:MainProcess: * Evaluator Initiated *
+2018-04-19 17:06:29,286:INFO:17891:MainProcess: * Publisher Initiated *
+2018-04-19 17:06:29,324:WARNING:17900:Process-2: * Debugger is active!
+2018-04-19 17:06:29,327:WARNING:17899:Process-1: * Debugger is active!
+2018-04-19 17:06:29,351:INFO:17892:MainProcess: * Evaluator Initiated *
+2018-04-19 17:06:29,351:INFO:17892:MainProcess: * Publisher Initiated *
+2018-04-19 17:06:29,351:INFO:17899:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:06:29,352:INFO:17900:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:06:29,394:WARNING:17907:Process-1: * Debugger is active!
+2018-04-19 17:06:29,404:WARNING:17908:Process-2: * Debugger is active!
+2018-04-19 17:06:29,426:INFO:17907:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:06:29,433:INFO:17908:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:08:06,481:INFO:17899:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:08:06,483:INFO:17900:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:08:06,483:INFO:17907:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:08:06,491:INFO:17908:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 17:08:19,311:INFO:17920:MainProcess: * Evaluator Initiated *
+2018-04-19 17:08:19,311:INFO:17920:MainProcess: * Publisher Initiated *
+2018-04-19 17:08:19,342:INFO:17925:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:08:19,342:INFO:17924:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:08:19,344:INFO:17925:Process-2: * Restarting with stat
+2018-04-19 17:08:19,344:INFO:17924:Process-1: * Restarting with stat
+2018-04-19 17:08:22,946:INFO:17927:MainProcess: * Evaluator Initiated *
+2018-04-19 17:08:22,946:INFO:17927:MainProcess: * Publisher Initiated *
+2018-04-19 17:08:22,951:INFO:17926:MainProcess: * Evaluator Initiated *
+2018-04-19 17:08:22,951:INFO:17926:MainProcess: * Publisher Initiated *
+2018-04-19 17:08:22,988:WARNING:17934:Process-1: * Debugger is active!
+2018-04-19 17:08:22,996:WARNING:17937:Process-2: * Debugger is active!
+2018-04-19 17:08:22,996:WARNING:17936:Process-1: * Debugger is active!
+2018-04-19 17:08:22,996:WARNING:17935:Process-2: * Debugger is active!
+2018-04-19 17:08:23,017:INFO:17934:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:08:23,021:INFO:17937:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:08:23,022:INFO:17936:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:08:23,022:INFO:17935:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:08:29,874:INFO:17937:Process-2:127.0.0.1 - - [19/Apr/2018 17:08:29] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:10:12,209:INFO:17937:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:10:12,209:INFO:17935:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:10:12,209:INFO:17936:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:10:12,210:INFO:17934:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:10:33,773:INFO:17958:MainProcess: * Evaluator Initiated *
+2018-04-19 17:10:33,773:INFO:17958:MainProcess: * Publisher Initiated *
+2018-04-19 17:10:33,805:INFO:17963:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:10:33,806:INFO:17962:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:10:33,807:INFO:17962:Process-1: * Restarting with stat
+2018-04-19 17:10:33,807:INFO:17963:Process-2: * Restarting with stat
+2018-04-19 17:10:37,781:INFO:17965:MainProcess: * Evaluator Initiated *
+2018-04-19 17:10:37,782:INFO:17965:MainProcess: * Publisher Initiated *
+2018-04-19 17:10:37,798:INFO:17964:MainProcess: * Evaluator Initiated *
+2018-04-19 17:10:37,798:INFO:17964:MainProcess: * Publisher Initiated *
+2018-04-19 17:10:37,821:WARNING:17973:Process-1: * Debugger is active!
+2018-04-19 17:10:37,824:WARNING:17974:Process-2: * Debugger is active!
+2018-04-19 17:10:37,842:WARNING:17975:Process-1: * Debugger is active!
+2018-04-19 17:10:37,846:WARNING:17976:Process-2: * Debugger is active!
+2018-04-19 17:10:37,849:INFO:17973:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:10:37,853:INFO:17974:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:10:37,869:INFO:17975:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:10:37,873:INFO:17976:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:10:52,933:INFO:17975:Process-1:127.0.0.1 - - [19/Apr/2018 17:10:52] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:13:11,500:INFO:17976:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:13:11,503:INFO:17973:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:13:11,503:INFO:17975:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:13:11,504:INFO:17974:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:23:40,388:INFO:18027:MainProcess: * Evaluator Initiated *
+2018-04-19 17:23:40,389:INFO:18027:MainProcess: * Publisher Initiated *
+2018-04-19 17:23:40,452:INFO:18032:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:23:40,452:INFO:18031:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:23:40,456:INFO:18032:Process-2: * Restarting with stat
+2018-04-19 17:23:40,456:INFO:18031:Process-1: * Restarting with stat
+2018-04-19 17:23:44,519:INFO:18034:MainProcess: * Evaluator Initiated *
+2018-04-19 17:23:44,519:INFO:18034:MainProcess: * Publisher Initiated *
+2018-04-19 17:23:44,530:INFO:18033:MainProcess: * Evaluator Initiated *
+2018-04-19 17:23:44,531:INFO:18033:MainProcess: * Publisher Initiated *
+2018-04-19 17:23:44,579:WARNING:18042:Process-2: * Debugger is active!
+2018-04-19 17:23:44,586:WARNING:18043:Process-1: * Debugger is active!
+2018-04-19 17:23:44,587:WARNING:18041:Process-1: * Debugger is active!
+2018-04-19 17:23:44,588:WARNING:18044:Process-2: * Debugger is active!
+2018-04-19 17:23:44,641:INFO:18043:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:23:44,641:INFO:18041:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:23:44,646:INFO:18042:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:23:44,650:INFO:18044:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:23:45,270:INFO:18041:Process-1:127.0.0.1 - - [19/Apr/2018 17:23:45] "POST /doit HTTP/1.1" 500 -
+2018-04-19 17:25:06,197:INFO:18044:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:25:06,203:INFO:18043:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:25:06,204:INFO:18042:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:25:06,206:INFO:18041:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 17:25:14,303:INFO:18058:MainProcess: * Evaluator Initiated *
+2018-04-19 17:25:14,303:INFO:18058:MainProcess: * Publisher Initiated *
+2018-04-19 17:25:14,338:INFO:18062:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:25:14,338:INFO:18063:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:25:14,340:INFO:18062:Process-1: * Restarting with stat
+2018-04-19 17:25:14,340:INFO:18063:Process-2: * Restarting with stat
+2018-04-19 17:25:18,564:INFO:18064:MainProcess: * Evaluator Initiated *
+2018-04-19 17:25:18,564:INFO:18065:MainProcess: * Evaluator Initiated *
+2018-04-19 17:25:18,565:INFO:18064:MainProcess: * Publisher Initiated *
+2018-04-19 17:25:18,565:INFO:18065:MainProcess: * Publisher Initiated *
+2018-04-19 17:25:18,613:WARNING:18074:Process-2: * Debugger is active!
+2018-04-19 17:25:18,615:WARNING:18075:Process-2: * Debugger is active!
+2018-04-19 17:25:18,615:WARNING:18072:Process-1: * Debugger is active!
+2018-04-19 17:25:18,615:WARNING:18073:Process-1: * Debugger is active!
+2018-04-19 17:25:18,640:INFO:18075:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:25:18,640:INFO:18074:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:25:18,642:INFO:18072:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:25:18,643:INFO:18073:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:25:38,465:INFO:18072:Process-1:127.0.0.1 - - [19/Apr/2018 17:25:38] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:28:25,129:INFO:18074:Process-2:127.0.0.1 - - [19/Apr/2018 17:28:25] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:29:56,142:INFO:18074:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:29:56,144:INFO:18075:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:29:56,144:INFO:18073:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:29:56,146:INFO:18072:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/feed_data.py', reloading
+2018-04-19 17:30:07,515:INFO:18103:MainProcess: * Evaluator Initiated *
+2018-04-19 17:30:07,516:INFO:18103:MainProcess: * Publisher Initiated *
+2018-04-19 17:30:07,570:INFO:18107:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:30:07,570:INFO:18108:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:30:07,574:INFO:18107:Process-1: * Restarting with stat
+2018-04-19 17:30:07,574:INFO:18108:Process-2: * Restarting with stat
+2018-04-19 17:30:11,858:INFO:18109:MainProcess: * Evaluator Initiated *
+2018-04-19 17:30:11,858:INFO:18110:MainProcess: * Evaluator Initiated *
+2018-04-19 17:30:11,858:INFO:18109:MainProcess: * Publisher Initiated *
+2018-04-19 17:30:11,858:INFO:18110:MainProcess: * Publisher Initiated *
+2018-04-19 17:30:11,909:WARNING:18120:Process-2: * Debugger is active!
+2018-04-19 17:30:11,911:WARNING:18119:Process-2: * Debugger is active!
+2018-04-19 17:30:11,911:WARNING:18118:Process-1: * Debugger is active!
+2018-04-19 17:30:11,912:WARNING:18117:Process-1: * Debugger is active!
+2018-04-19 17:30:11,938:INFO:18119:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:30:11,938:INFO:18120:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:30:11,940:INFO:18118:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:30:11,942:INFO:18117:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:30:31,117:INFO:18119:Process-2:127.0.0.1 - - [19/Apr/2018 17:30:31] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:31:24,531:INFO:18117:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:31:24,532:INFO:18118:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:31:24,535:INFO:18119:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:31:24,736:INFO:18120:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:32:41,298:INFO:18146:MainProcess: * Evaluator Initiated *
+2018-04-19 17:32:41,298:INFO:18146:MainProcess: * Publisher Initiated *
+2018-04-19 17:32:41,351:INFO:18151:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:32:41,351:INFO:18150:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:32:41,354:INFO:18151:Process-2: * Restarting with stat
+2018-04-19 17:32:41,354:INFO:18150:Process-1: * Restarting with stat
+2018-04-19 17:32:45,691:INFO:18152:MainProcess: * Evaluator Initiated *
+2018-04-19 17:32:45,691:INFO:18152:MainProcess: * Publisher Initiated *
+2018-04-19 17:32:45,696:INFO:18153:MainProcess: * Evaluator Initiated *
+2018-04-19 17:32:45,697:INFO:18153:MainProcess: * Publisher Initiated *
+2018-04-19 17:32:45,744:WARNING:18160:Process-1: * Debugger is active!
+2018-04-19 17:32:45,747:WARNING:18163:Process-2: * Debugger is active!
+2018-04-19 17:32:45,752:WARNING:18162:Process-1: * Debugger is active!
+2018-04-19 17:32:45,754:WARNING:18161:Process-2: * Debugger is active!
+2018-04-19 17:32:45,777:INFO:18161:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:32:45,777:INFO:18163:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:32:45,778:INFO:18160:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:32:45,779:INFO:18162:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:33:32,130:INFO:18163:Process-2:127.0.0.1 - - [19/Apr/2018 17:33:32] "POST /doit HTTP/1.1" 200 -
+2018-04-19 17:33:48,398:INFO:18161:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:33:48,398:INFO:18160:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:33:48,688:INFO:18163:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:33:48,691:INFO:18162:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-19 17:56:38,923:INFO:18215:MainProcess: * Evaluator Initiated *
+2018-04-19 17:56:38,923:INFO:18215:MainProcess: * Publisher Initiated *
+2018-04-19 17:56:38,982:INFO:18219:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 17:56:38,982:INFO:18220:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:56:38,986:INFO:18220:Process-2: * Restarting with stat
+2018-04-19 17:56:38,986:INFO:18219:Process-1: * Restarting with stat
+2018-04-19 17:56:42,796:INFO:18221:MainProcess: * Evaluator Initiated *
+2018-04-19 17:56:42,796:INFO:18222:MainProcess: * Evaluator Initiated *
+2018-04-19 17:56:42,796:INFO:18221:MainProcess: * Publisher Initiated *
+2018-04-19 17:56:42,796:INFO:18222:MainProcess: * Publisher Initiated *
+2018-04-19 17:56:42,847:WARNING:18230:Process-1: * Debugger is active!
+2018-04-19 17:56:42,847:WARNING:18229:Process-1: * Debugger is active!
+2018-04-19 17:56:42,847:WARNING:18231:Process-2: * Debugger is active!
+2018-04-19 17:56:42,847:WARNING:18232:Process-2: * Debugger is active!
+2018-04-19 17:56:42,873:INFO:18231:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:56:42,874:INFO:18229:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:56:42,874:INFO:18232:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:56:42,874:INFO:18230:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:57:47,484:INFO:18231:Process-2:127.0.0.1 - - [19/Apr/2018 17:57:47] "POST /doit HTTP/1.1" 500 -
+2018-04-19 17:58:08,500:INFO:18229:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_init.py', reloading
+2018-04-19 17:58:08,502:INFO:18232:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_init.py', reloading
+2018-04-19 17:58:08,719:INFO:18231:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_init.py', reloading
+2018-04-19 17:58:08,825:INFO:18230:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_init.py', reloading
+2018-04-19 17:58:35,280:INFO:18257:MainProcess: * Evaluator Initiated *
+2018-04-19 17:58:35,280:INFO:18257:MainProcess: * Publisher Initiated *
+2018-04-19 17:58:35,337:INFO:18262:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:58:35,340:INFO:18262:Process-2: * Restarting with stat
+2018-04-19 17:58:38,631:INFO:18263:MainProcess: * Evaluator Initiated *
+2018-04-19 17:58:38,631:INFO:18263:MainProcess: * Publisher Initiated *
+2018-04-19 17:58:38,664:WARNING:18267:Process-1: * Debugger is active!
+2018-04-19 17:58:38,664:WARNING:18268:Process-2: * Debugger is active!
+2018-04-19 17:58:38,686:INFO:18267:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 17:58:38,686:INFO:18268:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:59:02,249:INFO:18277:MainProcess: * Evaluator Initiated *
+2018-04-19 17:59:02,249:INFO:18277:MainProcess: * Publisher Initiated *
+2018-04-19 17:59:02,280:INFO:18282:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 17:59:02,282:INFO:18282:Process-2: * Restarting with stat
+2018-04-19 17:59:05,544:INFO:18283:MainProcess: * Evaluator Initiated *
+2018-04-19 17:59:05,544:INFO:18283:MainProcess: * Publisher Initiated *
+2018-04-19 17:59:05,576:WARNING:18287:Process-1: * Debugger is active!
+2018-04-19 17:59:05,576:WARNING:18288:Process-2: * Debugger is active!
+2018-04-19 17:59:05,595:INFO:18288:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 17:59:05,595:INFO:18287:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:02:45,649:INFO:18339:MainProcess: * Evaluator Initiated *
+2018-04-19 18:02:45,649:INFO:18339:MainProcess: * Publisher Initiated *
+2018-04-19 18:02:45,685:INFO:18344:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 18:02:45,685:INFO:18343:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 18:02:45,687:INFO:18343:Process-1: * Restarting with stat
+2018-04-19 18:02:45,687:INFO:18344:Process-2: * Restarting with stat
+2018-04-19 18:02:49,476:INFO:18346:MainProcess: * Evaluator Initiated *
+2018-04-19 18:02:49,476:INFO:18345:MainProcess: * Evaluator Initiated *
+2018-04-19 18:02:49,477:INFO:18346:MainProcess: * Publisher Initiated *
+2018-04-19 18:02:49,477:INFO:18345:MainProcess: * Publisher Initiated *
+2018-04-19 18:02:49,520:WARNING:18356:Process-2: * Debugger is active!
+2018-04-19 18:02:49,520:WARNING:18354:Process-1: * Debugger is active!
+2018-04-19 18:02:49,520:WARNING:18355:Process-2: * Debugger is active!
+2018-04-19 18:02:49,521:WARNING:18353:Process-1: * Debugger is active!
+2018-04-19 18:02:49,547:INFO:18354:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:02:49,548:INFO:18353:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:02:49,548:INFO:18355:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:02:49,548:INFO:18356:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:03:50,085:INFO:18354:Process-1:127.0.0.1 - - [19/Apr/2018 18:03:50] "POST /doit HTTP/1.1" 200 -
+2018-04-19 18:04:10,727:INFO:18353:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:04:10,728:INFO:18356:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:04:11,526:INFO:18354:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:04:11,527:INFO:18355:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:04:24,608:INFO:18376:MainProcess: * Evaluator Initiated *
+2018-04-19 18:04:24,608:INFO:18376:MainProcess: * Publisher Initiated *
+2018-04-19 18:04:24,661:INFO:18380:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 18:04:24,661:INFO:18381:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 18:04:24,664:INFO:18381:Process-2: * Restarting with stat
+2018-04-19 18:04:24,664:INFO:18380:Process-1: * Restarting with stat
+2018-04-19 18:04:28,512:INFO:18382:MainProcess: * Evaluator Initiated *
+2018-04-19 18:04:28,513:INFO:18382:MainProcess: * Publisher Initiated *
+2018-04-19 18:04:28,513:INFO:18383:MainProcess: * Evaluator Initiated *
+2018-04-19 18:04:28,513:INFO:18383:MainProcess: * Publisher Initiated *
+2018-04-19 18:04:28,558:WARNING:18391:Process-1: * Debugger is active!
+2018-04-19 18:04:28,558:WARNING:18392:Process-2: * Debugger is active!
+2018-04-19 18:04:28,558:WARNING:18393:Process-2: * Debugger is active!
+2018-04-19 18:04:28,559:WARNING:18390:Process-1: * Debugger is active!
+2018-04-19 18:04:28,584:INFO:18390:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:04:28,584:INFO:18391:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:04:28,585:INFO:18392:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:04:28,585:INFO:18393:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:05:51,198:INFO:18393:Process-2:127.0.0.1 - - [19/Apr/2018 18:05:51] "POST /doit HTTP/1.1" 200 -
+2018-04-19 18:15:08,425:INFO:18393:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:15:08,424:INFO:18391:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:15:08,424:INFO:18392:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:15:08,425:INFO:18390:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:26:18,351:INFO:18448:MainProcess: * Evaluator Initiated *
+2018-04-19 18:26:18,351:INFO:18448:MainProcess: * Publisher Initiated *
+2018-04-19 18:26:18,402:INFO:18453:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 18:26:18,402:INFO:18452:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 18:26:18,405:INFO:18452:Process-1: * Restarting with stat
+2018-04-19 18:26:18,405:INFO:18453:Process-2: * Restarting with stat
+2018-04-19 18:26:22,770:INFO:18454:MainProcess: * Evaluator Initiated *
+2018-04-19 18:26:22,770:INFO:18454:MainProcess: * Publisher Initiated *
+2018-04-19 18:26:22,794:INFO:18455:MainProcess: * Evaluator Initiated *
+2018-04-19 18:26:22,795:INFO:18455:MainProcess: * Publisher Initiated *
+2018-04-19 18:26:22,826:WARNING:18463:Process-2: * Debugger is active!
+2018-04-19 18:26:22,830:WARNING:18462:Process-1: * Debugger is active!
+2018-04-19 18:26:22,843:WARNING:18464:Process-1: * Debugger is active!
+2018-04-19 18:26:22,848:WARNING:18465:Process-2: * Debugger is active!
+2018-04-19 18:26:22,873:INFO:18462:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:26:22,878:INFO:18463:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:26:22,879:INFO:18464:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:26:22,885:INFO:18465:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:27:24,319:INFO:18463:Process-2:127.0.0.1 - - [19/Apr/2018 18:27:24] "POST /doit HTTP/1.1" 500 -
+2018-04-19 18:27:47,627:INFO:18463:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:27:48,127:INFO:18464:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:27:48,127:INFO:18462:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:27:48,353:INFO:18465:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:28:01,457:INFO:18489:MainProcess: * Evaluator Initiated *
+2018-04-19 18:28:01,457:INFO:18489:MainProcess: * Publisher Initiated *
+2018-04-19 18:28:01,508:INFO:18494:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 18:28:01,508:INFO:18495:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 18:28:01,512:INFO:18494:Process-1: * Restarting with stat
+2018-04-19 18:28:01,512:INFO:18495:Process-2: * Restarting with stat
+2018-04-19 18:28:05,971:INFO:18496:MainProcess: * Evaluator Initiated *
+2018-04-19 18:28:05,971:INFO:18497:MainProcess: * Evaluator Initiated *
+2018-04-19 18:28:05,971:INFO:18496:MainProcess: * Publisher Initiated *
+2018-04-19 18:28:05,971:INFO:18497:MainProcess: * Publisher Initiated *
+2018-04-19 18:28:06,020:WARNING:18504:Process-1: * Debugger is active!
+2018-04-19 18:28:06,020:WARNING:18506:Process-2: * Debugger is active!
+2018-04-19 18:28:06,020:WARNING:18505:Process-1: * Debugger is active!
+2018-04-19 18:28:06,021:WARNING:18507:Process-2: * Debugger is active!
+2018-04-19 18:28:06,048:INFO:18506:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:28:06,049:INFO:18507:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:28:06,049:INFO:18505:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:28:06,049:INFO:18504:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:28:59,926:INFO:18506:Process-2:127.0.0.1 - - [19/Apr/2018 18:28:59] "POST /doit HTTP/1.1" 500 -
+2018-04-19 18:29:14,862:INFO:18505:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:29:15,274:INFO:18507:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:29:15,352:INFO:18504:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:29:15,843:INFO:18506:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 18:29:29,562:INFO:18528:MainProcess: * Evaluator Initiated *
+2018-04-19 18:29:29,562:INFO:18528:MainProcess: * Publisher Initiated *
+2018-04-19 18:29:29,617:INFO:18532:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 18:29:29,617:INFO:18533:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 18:29:29,621:INFO:18532:Process-1: * Restarting with stat
+2018-04-19 18:29:29,621:INFO:18533:Process-2: * Restarting with stat
+2018-04-19 18:29:33,678:INFO:18535:MainProcess: * Evaluator Initiated *
+2018-04-19 18:29:33,678:INFO:18534:MainProcess: * Evaluator Initiated *
+2018-04-19 18:29:33,678:INFO:18535:MainProcess: * Publisher Initiated *
+2018-04-19 18:29:33,678:INFO:18534:MainProcess: * Publisher Initiated *
+2018-04-19 18:29:33,723:WARNING:18544:Process-2: * Debugger is active!
+2018-04-19 18:29:33,723:WARNING:18543:Process-1: * Debugger is active!
+2018-04-19 18:29:33,725:WARNING:18542:Process-1: * Debugger is active!
+2018-04-19 18:29:33,726:WARNING:18545:Process-2: * Debugger is active!
+2018-04-19 18:29:33,749:INFO:18544:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:29:33,749:INFO:18543:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:29:33,750:INFO:18545:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 18:29:33,750:INFO:18542:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 18:31:45,591:INFO:18543:Process-1:127.0.0.1 - - [19/Apr/2018 18:31:45] "POST /doit HTTP/1.1" 500 -
+2018-04-19 23:40:22,562:INFO:633:MainProcess: * Evaluator Initiated *
+2018-04-19 23:40:22,563:INFO:633:MainProcess: * Publisher Initiated *
+2018-04-19 23:40:22,635:INFO:639:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:40:22,635:INFO:640:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:40:22,639:INFO:640:Process-2: * Restarting with stat
+2018-04-19 23:40:22,639:INFO:639:Process-1: * Restarting with stat
+2018-04-19 23:40:28,310:INFO:641:MainProcess: * Evaluator Initiated *
+2018-04-19 23:40:28,310:INFO:641:MainProcess: * Publisher Initiated *
+2018-04-19 23:40:28,330:INFO:642:MainProcess: * Evaluator Initiated *
+2018-04-19 23:40:28,331:INFO:642:MainProcess: * Publisher Initiated *
+2018-04-19 23:40:28,361:WARNING:649:Process-1: * Debugger is active!
+2018-04-19 23:40:28,363:WARNING:650:Process-2: * Debugger is active!
+2018-04-19 23:40:28,382:WARNING:651:Process-1: * Debugger is active!
+2018-04-19 23:40:28,394:WARNING:652:Process-2: * Debugger is active!
+2018-04-19 23:40:28,405:INFO:649:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:40:28,406:INFO:650:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:40:28,419:INFO:651:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:40:28,436:INFO:652:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:42:53,324:INFO:652:Process-2:127.0.0.1 - - [19/Apr/2018 23:42:53] "POST /doit HTTP/1.1" 500 -
+2018-04-19 23:50:02,391:INFO:652:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:50:02,391:INFO:651:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:50:02,392:INFO:650:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:50:02,393:INFO:649:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:50:17,770:INFO:686:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:17,770:INFO:686:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:17,823:INFO:691:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:50:17,823:INFO:690:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:50:17,828:INFO:690:Process-1: * Restarting with stat
+2018-04-19 23:50:17,828:INFO:691:Process-2: * Restarting with stat
+2018-04-19 23:50:21,618:INFO:692:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:21,618:INFO:693:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:21,618:INFO:693:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:21,618:INFO:692:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:21,662:WARNING:701:Process-1: * Debugger is active!
+2018-04-19 23:50:21,662:WARNING:702:Process-2: * Debugger is active!
+2018-04-19 23:50:21,664:WARNING:700:Process-1: * Debugger is active!
+2018-04-19 23:50:21,667:WARNING:703:Process-2: * Debugger is active!
+2018-04-19 23:50:21,688:INFO:703:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:50:21,689:INFO:702:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:50:21,689:INFO:700:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:50:21,689:INFO:701:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:50:39,380:INFO:700:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 23:50:39,380:INFO:701:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 23:50:39,381:INFO:702:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 23:50:39,381:INFO:703:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/map_reduce.py', reloading
+2018-04-19 23:50:45,160:INFO:717:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:45,160:INFO:717:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:45,192:INFO:722:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:50:45,192:INFO:721:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:50:45,194:INFO:721:Process-1: * Restarting with stat
+2018-04-19 23:50:45,194:INFO:722:Process-2: * Restarting with stat
+2018-04-19 23:50:49,162:INFO:723:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:49,162:INFO:724:MainProcess: * Evaluator Initiated *
+2018-04-19 23:50:49,162:INFO:724:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:49,162:INFO:723:MainProcess: * Publisher Initiated *
+2018-04-19 23:50:49,208:WARNING:731:Process-1: * Debugger is active!
+2018-04-19 23:50:49,210:WARNING:733:Process-2: * Debugger is active!
+2018-04-19 23:50:49,212:WARNING:732:Process-1: * Debugger is active!
+2018-04-19 23:50:49,212:WARNING:734:Process-2: * Debugger is active!
+2018-04-19 23:50:49,232:INFO:731:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:50:49,233:INFO:733:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:50:49,235:INFO:732:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:50:49,235:INFO:734:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:52:02,420:INFO:734:Process-2:127.0.0.1 - - [19/Apr/2018 23:52:02] "POST /doit HTTP/1.1" 500 -
+2018-04-19 23:52:28,331:INFO:732:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:52:28,331:INFO:734:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:52:28,332:INFO:731:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:52:28,568:INFO:733:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:52:33,395:INFO:757:MainProcess: * Evaluator Initiated *
+2018-04-19 23:52:33,395:INFO:757:MainProcess: * Publisher Initiated *
+2018-04-19 23:52:33,426:INFO:762:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:52:33,426:INFO:761:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:52:33,428:INFO:761:Process-1: * Restarting with stat
+2018-04-19 23:52:33,428:INFO:762:Process-2: * Restarting with stat
+2018-04-19 23:52:37,266:INFO:764:MainProcess: * Evaluator Initiated *
+2018-04-19 23:52:37,266:INFO:763:MainProcess: * Evaluator Initiated *
+2018-04-19 23:52:37,266:INFO:763:MainProcess: * Publisher Initiated *
+2018-04-19 23:52:37,266:INFO:764:MainProcess: * Publisher Initiated *
+2018-04-19 23:52:37,312:WARNING:772:Process-1: * Debugger is active!
+2018-04-19 23:52:37,313:WARNING:773:Process-2: * Debugger is active!
+2018-04-19 23:52:37,313:WARNING:774:Process-2: * Debugger is active!
+2018-04-19 23:52:37,318:WARNING:771:Process-1: * Debugger is active!
+2018-04-19 23:52:37,336:INFO:773:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:52:37,337:INFO:772:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:52:37,337:INFO:774:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:52:37,346:INFO:771:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:54:04,116:INFO:772:Process-1:127.0.0.1 - - [19/Apr/2018 23:54:04] "POST /doit HTTP/1.1" 500 -
+2018-04-19 23:55:10,832:INFO:771:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:55:10,843:INFO:774:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:55:10,844:INFO:773:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:55:10,851:INFO:772:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:55:24,577:INFO:795:MainProcess: * Evaluator Initiated *
+2018-04-19 23:55:24,578:INFO:795:MainProcess: * Publisher Initiated *
+2018-04-19 23:55:24,611:INFO:800:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:55:24,611:INFO:799:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:55:24,613:INFO:800:Process-2: * Restarting with stat
+2018-04-19 23:55:24,613:INFO:799:Process-1: * Restarting with stat
+2018-04-19 23:55:28,534:INFO:802:MainProcess: * Evaluator Initiated *
+2018-04-19 23:55:28,534:INFO:801:MainProcess: * Evaluator Initiated *
+2018-04-19 23:55:28,534:INFO:802:MainProcess: * Publisher Initiated *
+2018-04-19 23:55:28,534:INFO:801:MainProcess: * Publisher Initiated *
+2018-04-19 23:55:28,579:WARNING:812:Process-2: * Debugger is active!
+2018-04-19 23:55:28,581:WARNING:810:Process-1: * Debugger is active!
+2018-04-19 23:55:28,580:WARNING:811:Process-2: * Debugger is active!
+2018-04-19 23:55:28,587:WARNING:809:Process-1: * Debugger is active!
+2018-04-19 23:55:28,605:INFO:810:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:55:28,606:INFO:811:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:55:28,606:INFO:812:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:55:28,611:INFO:809:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:56:13,604:INFO:811:Process-2:127.0.0.1 - - [19/Apr/2018 23:56:13] "POST /doit HTTP/1.1" 200 -
+2018-04-19 23:58:19,077:INFO:812:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:58:19,077:INFO:810:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:58:19,231:INFO:809:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:58:19,232:INFO:811:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-19 23:58:25,267:INFO:835:MainProcess: * Evaluator Initiated *
+2018-04-19 23:58:25,267:INFO:835:MainProcess: * Publisher Initiated *
+2018-04-19 23:58:25,298:INFO:840:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-19 23:58:25,298:INFO:839:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-19 23:58:25,301:INFO:840:Process-2: * Restarting with stat
+2018-04-19 23:58:25,301:INFO:839:Process-1: * Restarting with stat
+2018-04-19 23:58:29,261:INFO:841:MainProcess: * Evaluator Initiated *
+2018-04-19 23:58:29,260:INFO:842:MainProcess: * Evaluator Initiated *
+2018-04-19 23:58:29,261:INFO:842:MainProcess: * Publisher Initiated *
+2018-04-19 23:58:29,261:INFO:841:MainProcess: * Publisher Initiated *
+2018-04-19 23:58:29,310:WARNING:849:Process-1: * Debugger is active!
+2018-04-19 23:58:29,311:WARNING:850:Process-1: * Debugger is active!
+2018-04-19 23:58:29,311:WARNING:852:Process-2: * Debugger is active!
+2018-04-19 23:58:29,313:WARNING:851:Process-2: * Debugger is active!
+2018-04-19 23:58:29,336:INFO:852:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:58:29,336:INFO:850:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:58:29,336:INFO:849:Process-1: * Debugger PIN: 324-140-305
+2018-04-19 23:58:29,341:INFO:851:Process-2: * Debugger PIN: 324-140-305
+2018-04-19 23:58:56,759:INFO:852:Process-2:127.0.0.1 - - [19/Apr/2018 23:58:56] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:00:43,068:INFO:849:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:00:43,068:INFO:852:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:00:43,070:INFO:851:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:00:43,070:INFO:850:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:00:48,857:INFO:877:MainProcess: * Evaluator Initiated *
+2018-04-20 00:00:48,857:INFO:877:MainProcess: * Publisher Initiated *
+2018-04-20 00:00:48,888:INFO:881:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:00:48,888:INFO:882:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:00:48,890:INFO:881:Process-1: * Restarting with stat
+2018-04-20 00:00:48,890:INFO:882:Process-2: * Restarting with stat
+2018-04-20 00:00:52,685:INFO:884:MainProcess: * Evaluator Initiated *
+2018-04-20 00:00:52,685:INFO:883:MainProcess: * Evaluator Initiated *
+2018-04-20 00:00:52,685:INFO:884:MainProcess: * Publisher Initiated *
+2018-04-20 00:00:52,685:INFO:883:MainProcess: * Publisher Initiated *
+2018-04-20 00:00:52,731:WARNING:891:Process-1: * Debugger is active!
+2018-04-20 00:00:52,731:WARNING:894:Process-2: * Debugger is active!
+2018-04-20 00:00:52,734:WARNING:892:Process-1: * Debugger is active!
+2018-04-20 00:00:52,734:WARNING:893:Process-2: * Debugger is active!
+2018-04-20 00:00:52,755:INFO:891:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:00:52,756:INFO:894:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:00:52,756:INFO:893:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:00:52,756:INFO:892:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:01:55,093:INFO:894:Process-2:127.0.0.1 - - [20/Apr/2018 00:01:55] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:03:54,223:INFO:892:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:03:54,424:INFO:894:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:03:54,423:INFO:893:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:03:54,426:INFO:891:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:03:59,374:INFO:918:MainProcess: * Evaluator Initiated *
+2018-04-20 00:03:59,375:INFO:918:MainProcess: * Publisher Initiated *
+2018-04-20 00:03:59,409:INFO:922:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:03:59,409:INFO:923:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:03:59,411:INFO:923:Process-2: * Restarting with stat
+2018-04-20 00:03:59,411:INFO:922:Process-1: * Restarting with stat
+2018-04-20 00:04:03,424:INFO:925:MainProcess: * Evaluator Initiated *
+2018-04-20 00:04:03,424:INFO:924:MainProcess: * Evaluator Initiated *
+2018-04-20 00:04:03,424:INFO:925:MainProcess: * Publisher Initiated *
+2018-04-20 00:04:03,424:INFO:924:MainProcess: * Publisher Initiated *
+2018-04-20 00:04:03,469:WARNING:932:Process-1: * Debugger is active!
+2018-04-20 00:04:03,469:WARNING:933:Process-1: * Debugger is active!
+2018-04-20 00:04:03,472:WARNING:935:Process-2: * Debugger is active!
+2018-04-20 00:04:03,473:WARNING:934:Process-2: * Debugger is active!
+2018-04-20 00:04:03,492:INFO:932:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:04:03,492:INFO:933:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:04:03,495:INFO:935:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:04:03,496:INFO:934:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:04:30,532:INFO:934:Process-2:127.0.0.1 - - [20/Apr/2018 00:04:30] "POST /doit HTTP/1.1" 200 -
+2018-04-20 00:05:01,170:INFO:934:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:01,479:INFO:933:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:01,479:INFO:935:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:01,928:INFO:932:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:07,636:INFO:954:MainProcess: * Evaluator Initiated *
+2018-04-20 00:05:07,636:INFO:954:MainProcess: * Publisher Initiated *
+2018-04-20 00:05:07,672:INFO:958:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:05:07,673:INFO:959:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:05:07,674:INFO:958:Process-1: * Restarting with stat
+2018-04-20 00:05:07,674:INFO:959:Process-2: * Restarting with stat
+2018-04-20 00:05:11,608:INFO:961:MainProcess: * Evaluator Initiated *
+2018-04-20 00:05:11,608:INFO:960:MainProcess: * Evaluator Initiated *
+2018-04-20 00:05:11,609:INFO:961:MainProcess: * Publisher Initiated *
+2018-04-20 00:05:11,609:INFO:960:MainProcess: * Publisher Initiated *
+2018-04-20 00:05:11,658:WARNING:968:Process-1: * Debugger is active!
+2018-04-20 00:05:11,658:WARNING:969:Process-1: * Debugger is active!
+2018-04-20 00:05:11,658:WARNING:970:Process-2: * Debugger is active!
+2018-04-20 00:05:11,660:WARNING:971:Process-2: * Debugger is active!
+2018-04-20 00:05:11,682:INFO:968:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:05:11,682:INFO:969:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:05:11,684:INFO:971:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:05:11,686:INFO:970:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:05:13,323:INFO:969:Process-1:127.0.0.1 - - [20/Apr/2018 00:05:13] "POST /doit HTTP/1.1" 200 -
+2018-04-20 00:05:59,479:INFO:969:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:59,483:INFO:970:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:59,487:INFO:971:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:05:59,591:INFO:968:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:06:08,771:INFO:990:MainProcess: * Evaluator Initiated *
+2018-04-20 00:06:08,771:INFO:990:MainProcess: * Publisher Initiated *
+2018-04-20 00:06:08,803:INFO:994:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:06:08,803:INFO:995:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:06:08,804:INFO:995:Process-2: * Restarting with stat
+2018-04-20 00:06:08,804:INFO:994:Process-1: * Restarting with stat
+2018-04-20 00:06:12,581:INFO:996:MainProcess: * Evaluator Initiated *
+2018-04-20 00:06:12,581:INFO:996:MainProcess: * Publisher Initiated *
+2018-04-20 00:06:12,583:INFO:997:MainProcess: * Evaluator Initiated *
+2018-04-20 00:06:12,584:INFO:997:MainProcess: * Publisher Initiated *
+2018-04-20 00:06:12,646:WARNING:1005:Process-1: * Debugger is active!
+2018-04-20 00:06:12,649:WARNING:1004:Process-1: * Debugger is active!
+2018-04-20 00:06:12,661:WARNING:1006:Process-2: * Debugger is active!
+2018-04-20 00:06:12,669:INFO:1005:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:06:12,674:INFO:1004:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:06:12,678:WARNING:1007:Process-2: * Debugger is active!
+2018-04-20 00:06:12,683:INFO:1006:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:06:12,709:INFO:1007:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:12:15,554:INFO:1041:MainProcess: * Evaluator Initiated *
+2018-04-20 00:12:15,554:INFO:1041:MainProcess: * Publisher Initiated *
+2018-04-20 00:12:15,586:INFO:1046:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:12:15,586:INFO:1045:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:12:15,588:INFO:1046:Process-2: * Restarting with stat
+2018-04-20 00:12:15,588:INFO:1045:Process-1: * Restarting with stat
+2018-04-20 00:12:19,278:INFO:1048:MainProcess: * Evaluator Initiated *
+2018-04-20 00:12:19,278:INFO:1047:MainProcess: * Evaluator Initiated *
+2018-04-20 00:12:19,278:INFO:1048:MainProcess: * Publisher Initiated *
+2018-04-20 00:12:19,278:INFO:1047:MainProcess: * Publisher Initiated *
+2018-04-20 00:12:19,325:WARNING:1057:Process-2: * Debugger is active!
+2018-04-20 00:12:19,325:WARNING:1056:Process-1: * Debugger is active!
+2018-04-20 00:12:19,333:WARNING:1058:Process-2: * Debugger is active!
+2018-04-20 00:12:19,349:INFO:1055:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:12:19,349:INFO:1057:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:12:19,349:INFO:1056:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:12:19,357:INFO:1058:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:13:39,478:INFO:1055:Process-1:127.0.0.1 - - [20/Apr/2018 00:13:39] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:19:04,096:INFO:1056:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:04,099:INFO:1057:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:04,100:INFO:1058:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:04,100:INFO:1055:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:09,230:INFO:1083:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:09,231:INFO:1083:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:09,263:INFO:1087:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:19:09,263:INFO:1088:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:19:09,265:INFO:1087:Process-1: * Restarting with stat
+2018-04-20 00:19:09,265:INFO:1088:Process-2: * Restarting with stat
+2018-04-20 00:19:13,113:INFO:1089:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:13,113:INFO:1090:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:13,113:INFO:1090:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:13,113:INFO:1089:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:13,157:WARNING:1097:Process-1: * Debugger is active!
+2018-04-20 00:19:13,157:WARNING:1100:Process-2: * Debugger is active!
+2018-04-20 00:19:13,161:WARNING:1099:Process-2: * Debugger is active!
+2018-04-20 00:19:13,162:WARNING:1098:Process-1: * Debugger is active!
+2018-04-20 00:19:13,182:INFO:1097:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:19:13,182:INFO:1100:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:19:13,189:INFO:1098:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:19:13,184:INFO:1099:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:19:16,518:INFO:1099:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:16,520:INFO:1097:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:16,521:INFO:1100:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:16,523:INFO:1098:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 00:19:22,931:INFO:1114:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:22,931:INFO:1114:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:22,963:INFO:1119:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:19:22,963:INFO:1118:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:19:22,964:INFO:1119:Process-2: * Restarting with stat
+2018-04-20 00:19:22,964:INFO:1118:Process-1: * Restarting with stat
+2018-04-20 00:19:26,930:INFO:1120:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:26,930:INFO:1121:MainProcess: * Evaluator Initiated *
+2018-04-20 00:19:26,930:INFO:1121:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:26,930:INFO:1120:MainProcess: * Publisher Initiated *
+2018-04-20 00:19:26,975:WARNING:1128:Process-1: * Debugger is active!
+2018-04-20 00:19:26,976:WARNING:1130:Process-2: * Debugger is active!
+2018-04-20 00:19:26,975:WARNING:1131:Process-2: * Debugger is active!
+2018-04-20 00:19:26,985:WARNING:1129:Process-1: * Debugger is active!
+2018-04-20 00:19:26,999:INFO:1131:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:19:26,999:INFO:1130:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:19:26,999:INFO:1128:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:19:27,010:INFO:1129:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:20:41,797:INFO:1129:Process-1:127.0.0.1 - - [20/Apr/2018 00:20:41] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:23:05,386:INFO:1128:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-20 00:23:05,386:INFO:1131:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-20 00:23:05,388:INFO:1130:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-20 00:23:05,388:INFO:1129:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/utils/data_gen.py', reloading
+2018-04-20 00:24:30,702:INFO:1155:MainProcess: * Evaluator Initiated *
+2018-04-20 00:24:30,702:INFO:1155:MainProcess: * Publisher Initiated *
+2018-04-20 00:24:30,734:INFO:1159:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:24:30,734:INFO:1160:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:24:30,736:INFO:1160:Process-2: * Restarting with stat
+2018-04-20 00:24:30,736:INFO:1159:Process-1: * Restarting with stat
+2018-04-20 00:24:34,567:INFO:1162:MainProcess: * Evaluator Initiated *
+2018-04-20 00:24:34,567:INFO:1161:MainProcess: * Evaluator Initiated *
+2018-04-20 00:24:34,567:INFO:1162:MainProcess: * Publisher Initiated *
+2018-04-20 00:24:34,568:INFO:1161:MainProcess: * Publisher Initiated *
+2018-04-20 00:24:34,618:WARNING:1171:Process-2: * Debugger is active!
+2018-04-20 00:24:34,619:WARNING:1172:Process-2: * Debugger is active!
+2018-04-20 00:24:34,622:WARNING:1169:Process-1: * Debugger is active!
+2018-04-20 00:24:34,623:WARNING:1170:Process-1: * Debugger is active!
+2018-04-20 00:24:34,645:INFO:1172:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:24:34,646:INFO:1169:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:24:34,646:INFO:1170:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:24:34,646:INFO:1171:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:31:17,189:INFO:1202:MainProcess: * Evaluator Initiated *
+2018-04-20 00:31:17,190:INFO:1202:MainProcess: * Publisher Initiated *
+2018-04-20 00:31:17,243:INFO:1209:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:31:17,243:INFO:1208:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:31:17,247:INFO:1209:Process-2: * Restarting with stat
+2018-04-20 00:31:17,247:INFO:1208:Process-1: * Restarting with stat
+2018-04-20 00:31:22,469:INFO:1211:MainProcess: * Evaluator Initiated *
+2018-04-20 00:31:22,469:INFO:1211:MainProcess: * Publisher Initiated *
+2018-04-20 00:31:22,485:INFO:1210:MainProcess: * Evaluator Initiated *
+2018-04-20 00:31:22,486:INFO:1210:MainProcess: * Publisher Initiated *
+2018-04-20 00:31:22,507:WARNING:1218:Process-1: * Debugger is active!
+2018-04-20 00:31:22,515:WARNING:1219:Process-2: * Debugger is active!
+2018-04-20 00:31:22,525:WARNING:1220:Process-1: * Debugger is active!
+2018-04-20 00:31:22,527:WARNING:1221:Process-2: * Debugger is active!
+2018-04-20 00:31:22,540:INFO:1218:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:31:22,540:INFO:1219:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:31:22,548:INFO:1220:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:31:22,553:INFO:1221:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:33:14,550:INFO:1218:Process-1:127.0.0.1 - - [20/Apr/2018 00:33:14] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:34:24,052:INFO:1220:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:34:24,078:INFO:1221:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:34:24,080:INFO:1219:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:34:25,029:INFO:1218:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:34:58,168:INFO:1244:MainProcess: * Evaluator Initiated *
+2018-04-20 00:34:58,168:INFO:1244:MainProcess: * Publisher Initiated *
+2018-04-20 00:34:58,201:INFO:1249:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:34:58,201:INFO:1248:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:34:58,203:INFO:1248:Process-1: * Restarting with stat
+2018-04-20 00:34:58,203:INFO:1249:Process-2: * Restarting with stat
+2018-04-20 00:35:02,025:INFO:1251:MainProcess: * Evaluator Initiated *
+2018-04-20 00:35:02,025:INFO:1250:MainProcess: * Evaluator Initiated *
+2018-04-20 00:35:02,025:INFO:1251:MainProcess: * Publisher Initiated *
+2018-04-20 00:35:02,025:INFO:1250:MainProcess: * Publisher Initiated *
+2018-04-20 00:35:02,072:WARNING:1261:Process-2: * Debugger is active!
+2018-04-20 00:35:02,072:WARNING:1259:Process-1: * Debugger is active!
+2018-04-20 00:35:02,072:WARNING:1258:Process-1: * Debugger is active!
+2018-04-20 00:35:02,078:WARNING:1260:Process-2: * Debugger is active!
+2018-04-20 00:35:02,096:INFO:1261:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:35:02,096:INFO:1258:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:35:02,098:INFO:1259:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:35:02,104:INFO:1260:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:36:25,198:INFO:1261:Process-2:127.0.0.1 - - [20/Apr/2018 00:36:25] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:37:39,846:INFO:1261:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:37:39,849:INFO:1260:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:37:39,849:INFO:1259:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:37:39,852:INFO:1258:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:39:22,483:INFO:1284:MainProcess: * Evaluator Initiated *
+2018-04-20 00:39:22,484:INFO:1284:MainProcess: * Publisher Initiated *
+2018-04-20 00:39:22,515:INFO:1288:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:39:22,515:INFO:1289:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:39:22,517:INFO:1288:Process-1: * Restarting with stat
+2018-04-20 00:39:22,517:INFO:1289:Process-2: * Restarting with stat
+2018-04-20 00:39:26,339:INFO:1291:MainProcess: * Evaluator Initiated *
+2018-04-20 00:39:26,339:INFO:1290:MainProcess: * Evaluator Initiated *
+2018-04-20 00:39:26,339:INFO:1291:MainProcess: * Publisher Initiated *
+2018-04-20 00:39:26,339:INFO:1290:MainProcess: * Publisher Initiated *
+2018-04-20 00:39:26,387:WARNING:1300:Process-2: * Debugger is active!
+2018-04-20 00:39:26,387:WARNING:1298:Process-1: * Debugger is active!
+2018-04-20 00:39:26,387:WARNING:1301:Process-2: * Debugger is active!
+2018-04-20 00:39:26,399:WARNING:1299:Process-1: * Debugger is active!
+2018-04-20 00:39:26,414:INFO:1298:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:39:26,414:INFO:1300:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:39:26,414:INFO:1301:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:39:26,425:INFO:1299:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:45:45,553:INFO:1326:MainProcess: * Evaluator Initiated *
+2018-04-20 00:45:45,554:INFO:1326:MainProcess: * Publisher Initiated *
+2018-04-20 00:45:45,641:INFO:1331:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:45:45,641:INFO:1330:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:45:45,645:INFO:1330:Process-1: * Restarting with stat
+2018-04-20 00:45:45,645:INFO:1331:Process-2: * Restarting with stat
+2018-04-20 00:45:50,090:INFO:1333:MainProcess: * Evaluator Initiated *
+2018-04-20 00:45:50,090:INFO:1332:MainProcess: * Evaluator Initiated *
+2018-04-20 00:45:50,090:INFO:1333:MainProcess: * Publisher Initiated *
+2018-04-20 00:45:50,090:INFO:1332:MainProcess: * Publisher Initiated *
+2018-04-20 00:45:50,163:WARNING:1343:Process-2: * Debugger is active!
+2018-04-20 00:45:50,163:WARNING:1342:Process-2: * Debugger is active!
+2018-04-20 00:45:50,176:WARNING:1341:Process-1: * Debugger is active!
+2018-04-20 00:45:50,204:INFO:1342:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:45:50,204:INFO:1343:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:45:50,238:WARNING:1340:Process-1: * Debugger is active!
+2018-04-20 00:45:50,250:INFO:1341:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:45:50,269:INFO:1340:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:45:59,199:INFO:1343:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:45:59,199:INFO:1342:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:45:59,199:INFO:1340:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:45:59,203:INFO:1341:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:46:04,659:INFO:1357:MainProcess: * Evaluator Initiated *
+2018-04-20 00:46:04,659:INFO:1357:MainProcess: * Publisher Initiated *
+2018-04-20 00:46:04,690:INFO:1362:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:46:04,690:INFO:1361:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:46:04,692:INFO:1361:Process-1: * Restarting with stat
+2018-04-20 00:46:04,692:INFO:1362:Process-2: * Restarting with stat
+2018-04-20 00:46:08,635:INFO:1363:MainProcess: * Evaluator Initiated *
+2018-04-20 00:46:08,635:INFO:1364:MainProcess: * Evaluator Initiated *
+2018-04-20 00:46:08,635:INFO:1363:MainProcess: * Publisher Initiated *
+2018-04-20 00:46:08,635:INFO:1364:MainProcess: * Publisher Initiated *
+2018-04-20 00:46:08,680:WARNING:1371:Process-1: * Debugger is active!
+2018-04-20 00:46:08,681:WARNING:1374:Process-2: * Debugger is active!
+2018-04-20 00:46:08,682:WARNING:1372:Process-1: * Debugger is active!
+2018-04-20 00:46:08,686:WARNING:1373:Process-2: * Debugger is active!
+2018-04-20 00:46:08,705:INFO:1371:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:46:08,705:INFO:1374:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:46:08,706:INFO:1372:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:46:08,708:INFO:1373:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:47:35,270:INFO:1374:Process-2:127.0.0.1 - - [20/Apr/2018 00:47:35] "POST /doit HTTP/1.1" 500 -
+2018-04-20 00:48:03,987:INFO:1374:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:48:04,087:INFO:1371:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:48:04,589:INFO:1373:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:48:04,589:INFO:1372:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/model_builder/model_trainer.py', reloading
+2018-04-20 00:49:40,562:INFO:1398:MainProcess: * Evaluator Initiated *
+2018-04-20 00:49:40,563:INFO:1398:MainProcess: * Publisher Initiated *
+2018-04-20 00:49:40,593:INFO:1402:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 00:49:40,595:INFO:1402:Process-1: * Restarting with stat
+2018-04-20 00:49:40,595:INFO:1403:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 00:49:40,596:INFO:1403:Process-2: * Restarting with stat
+2018-04-20 00:49:44,458:INFO:1404:MainProcess: * Evaluator Initiated *
+2018-04-20 00:49:44,458:INFO:1405:MainProcess: * Evaluator Initiated *
+2018-04-20 00:49:44,458:INFO:1405:MainProcess: * Publisher Initiated *
+2018-04-20 00:49:44,458:INFO:1404:MainProcess: * Publisher Initiated *
+2018-04-20 00:49:44,502:WARNING:1413:Process-1: * Debugger is active!
+2018-04-20 00:49:44,504:WARNING:1415:Process-2: * Debugger is active!
+2018-04-20 00:49:44,506:WARNING:1412:Process-1: * Debugger is active!
+2018-04-20 00:49:44,507:WARNING:1414:Process-2: * Debugger is active!
+2018-04-20 00:49:44,529:INFO:1413:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 00:49:44,529:INFO:1415:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:49:44,530:INFO:1414:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 00:49:44,531:INFO:1412:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 10:37:35,413:INFO:1744:MainProcess: * Evaluator Initiated *
+2018-04-20 10:37:35,415:INFO:1744:MainProcess: * Publisher Initiated *
+2018-04-20 10:37:35,473:INFO:1749:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 10:37:35,473:INFO:1748:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 10:37:35,477:INFO:1748:Process-1: * Restarting with stat
+2018-04-20 10:37:35,477:INFO:1749:Process-2: * Restarting with stat
+2018-04-20 10:37:39,254:INFO:1751:MainProcess: * Evaluator Initiated *
+2018-04-20 10:37:39,254:INFO:1750:MainProcess: * Evaluator Initiated *
+2018-04-20 10:37:39,254:INFO:1751:MainProcess: * Publisher Initiated *
+2018-04-20 10:37:39,254:INFO:1750:MainProcess: * Publisher Initiated *
+2018-04-20 10:37:39,298:WARNING:1760:Process-2: * Debugger is active!
+2018-04-20 10:37:39,298:WARNING:1758:Process-1: * Debugger is active!
+2018-04-20 10:37:39,298:WARNING:1759:Process-1: * Debugger is active!
+2018-04-20 10:37:39,299:WARNING:1761:Process-2: * Debugger is active!
+2018-04-20 10:37:39,332:INFO:1759:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 10:37:39,332:INFO:1760:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 10:37:39,332:INFO:1761:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 10:37:39,332:INFO:1758:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 10:38:27,470:INFO:1760:Process-2:127.0.0.1 - - [20/Apr/2018 10:38:27] "POST /doit HTTP/1.1" 500 -
+2018-04-20 10:38:51,906:INFO:1761:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:38:51,906:INFO:1760:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:38:52,258:INFO:1759:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:38:52,258:INFO:1758:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:39:11,506:INFO:1785:MainProcess: * Evaluator Initiated *
+2018-04-20 10:39:11,506:INFO:1785:MainProcess: * Publisher Initiated *
+2018-04-20 10:39:11,543:INFO:1790:Process-2: * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
+2018-04-20 10:39:11,543:INFO:1789:Process-1: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-04-20 10:39:11,545:INFO:1790:Process-2: * Restarting with stat
+2018-04-20 10:39:11,545:INFO:1789:Process-1: * Restarting with stat
+2018-04-20 10:39:15,377:INFO:1791:MainProcess: * Evaluator Initiated *
+2018-04-20 10:39:15,377:INFO:1792:MainProcess: * Evaluator Initiated *
+2018-04-20 10:39:15,377:INFO:1791:MainProcess: * Publisher Initiated *
+2018-04-20 10:39:15,377:INFO:1792:MainProcess: * Publisher Initiated *
+2018-04-20 10:39:15,421:WARNING:1800:Process-1: * Debugger is active!
+2018-04-20 10:39:15,422:WARNING:1801:Process-2: * Debugger is active!
+2018-04-20 10:39:15,422:WARNING:1799:Process-1: * Debugger is active!
+2018-04-20 10:39:15,446:INFO:1802:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 10:39:15,446:INFO:1801:Process-2: * Debugger PIN: 324-140-305
+2018-04-20 10:39:15,446:INFO:1799:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 10:39:15,446:INFO:1800:Process-1: * Debugger PIN: 324-140-305
+2018-04-20 10:40:18,787:INFO:1802:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:40:18,809:INFO:1801:Process-2: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:40:18,811:INFO:1799:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-20 10:40:19,257:INFO:1800:Process-1: * Detected change in '/Users/rishab/Desktop/fynd/solid_app/server.py', reloading
+2018-04-23 11:54:39,323:INFO:7030:MainProcess: * Evaluator Initiated *
+2018-04-23 11:54:39,325:INFO:7030:MainProcess: * Publisher Initiated *
+2018-04-23 11:54:39,395:INFO:7035:Process-2: * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2018-04-23 11:54:39,395:INFO:7034:Process-1: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2018-04-23 11:54:39,399:INFO:7034:Process-1: * Restarting with stat
+2018-04-23 11:54:39,399:INFO:7035:Process-2: * Restarting with stat
+2018-04-23 11:54:43,438:INFO:7037:MainProcess: * Evaluator Initiated *
+2018-04-23 11:54:43,439:INFO:7037:MainProcess: * Publisher Initiated *
+2018-04-23 11:54:43,441:INFO:7036:MainProcess: * Evaluator Initiated *
+2018-04-23 11:54:43,441:INFO:7036:MainProcess: * Publisher Initiated *
+2018-04-23 11:54:43,483:WARNING:7044:Process-1: * Debugger is active!
+2018-04-23 11:54:43,483:WARNING:7046:Process-2: * Debugger is active!
+2018-04-23 11:54:43,485:WARNING:7045:Process-1: * Debugger is active!
+2018-04-23 11:54:43,490:WARNING:7047:Process-2: * Debugger is active!
+2018-04-23 11:54:43,519:INFO:7047:Process-2: * Debugger PIN: 324-140-305
+2018-04-23 11:54:43,519:INFO:7044:Process-1: * Debugger PIN: 324-140-305
+2018-04-23 11:54:43,519:INFO:7045:Process-1: * Debugger PIN: 324-140-305
+2018-04-23 11:54:43,519:INFO:7046:Process-2: * Debugger PIN: 324-140-305
+2018-06-06 16:08:45,802:INFO:2146:MainProcess: * Evaluator Initiated *
+2018-06-06 16:08:45,808:INFO:2146:MainProcess: * Publisher Initiated *
+2018-06-06 16:08:45,894:INFO:2150:Process-1: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+2018-06-06 16:08:45,894:INFO:2151:Process-2: * Running on http://0.0.0.0:5001/ (Press CTRL+C to quit)
+2018-06-06 16:08:45,899:INFO:2151:Process-2: * Restarting with stat
+2018-06-06 16:08:45,899:INFO:2150:Process-1: * Restarting with stat
+2018-06-06 16:09:02,663:INFO:2152:MainProcess: * Evaluator Initiated *
+2018-06-06 16:09:02,664:INFO:2153:MainProcess: * Evaluator Initiated *
+2018-06-06 16:09:02,664:INFO:2152:MainProcess: * Publisher Initiated *
+2018-06-06 16:09:02,664:INFO:2153:MainProcess: * Publisher Initiated *
+2018-06-06 16:09:02,738:WARNING:2162:Process-2: * Debugger is active!
+2018-06-06 16:09:02,741:WARNING:2163:Process-2: * Debugger is active!
+2018-06-06 16:09:02,740:WARNING:2160:Process-1: * Debugger is active!
+2018-06-06 16:09:02,747:WARNING:2161:Process-1: * Debugger is active!
+2018-06-06 16:09:02,806:INFO:2162:Process-2: * Debugger PIN: 324-140-305
+2018-06-06 16:09:02,806:INFO:2163:Process-2: * Debugger PIN: 324-140-305
+2018-06-06 16:09:02,810:INFO:2160:Process-1: * Debugger PIN: 324-140-305
+2018-06-06 16:09:02,810:INFO:2161:Process-1: * Debugger PIN: 324-140-305
